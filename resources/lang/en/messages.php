@@ -1,0 +1,112 @@
+<?php
+
+return array (
+  'general' => 
+  array (
+    'welcome' => 'Welcome',
+    'goodbye' => 'Goodbye',
+    'home' => 'Home',
+    'settings' => 'Settings',
+    'back' => 'Back',
+    'save' => 'Save',
+    'register' => 'Register',
+    'days_of_week' => "Days of the week",
+    'monday' => "Monday",
+    'tuesday' => "Tuesday",
+    'wednesday' => "Wednesday",
+    'thursday' => "Thursday",
+    'friday' => "Friday",
+    'saturday' => "Saturday",
+    'sunday' => "Sunday",
+    'month' => "Month",
+    'hours' => "Hours",
+    'sum' => "Sum",
+    'delete' => "Delete",
+    'phone' => "Phone number",
+    'not_found' => "Not found",
+    'status' => "Status",
+    'active' => "Active",
+    'suspended' => "Suspended",
+    'cenceled' => "Cenceled",
+    'edit' => "Edit",
+    'choose' => "Choose",
+    'name' => "Name",
+    'last_name' => "Last name",
+    'time' => 'Time',
+    'address' => "Address",
+    'all' => 'All',
+    'type' => 'Type',
+    'admin' => 'admin',
+    'information' => "Information",
+    'role' => "Role",
+    'finished' => "Finished",
+    'password' => "password",
+    'translation' => "Translations",
+
+  ),
+  'branch' => 
+  array (
+    'branch' => 'Branch',
+    'title' => 'Branches',
+    'create' => 'Create Branch',
+    'edit' => 'Edit Branch',
+    'delete' => 'Delete Branch',
+    'list' => 'Branch list',
+  ),
+  'filial' => 
+  array (
+    'name' => 'Branch Name',
+    'address' => 'Branch Address',
+  ),
+  'employee' => 
+  array (
+    'employees' => 'Employees',
+    'list' => 'Employees list',
+    'add' => "Add Employee",
+    'edit' => "Edit Employee",
+    'enter_emp_inf' => "Enter employee information",
+
+  ),
+  'students' => 
+  array (
+    'student' => "Student",
+    'students' => "Students",
+    'list' => "Students list",
+    'add_student' => "Add student",
+    'create' => "Create student",
+
+  ),
+  'courses' => 
+  array (
+    'courses' => 'Courses',
+    'course' => 'Course',
+    'name' => 'Course name',
+    'list' => "Courses list",
+    'create' => 'Create course',
+    'add_course' => "Add new course",
+    'edit' => 'Edit course',
+    'information' => "Course information",
+  ),
+  'group' => 
+  array (
+    'groups' => 'Groups',
+    'add_group' => "Add Group",
+    'new_groups' => "New Group",
+    'edit_group' => "Edit Group",
+    'update_group' => "Update Group",
+    'home' => 'Home',
+    'students' => 'Group students',
+    'back' => 'Back',
+    'list' => 'Group list',
+    'create' => 'Create group',
+    'information' => 'Group information',
+    'no_information' => 'No information',
+    'waiting' => 'Waiting',
+    'paid' => 'Paid',
+    'unpaid' => 'Unpaid',
+    'invoice' => 'Invoice',
+    'transaction' => "Transaction",
+    'lifetime' => 'LifeTime',
+    'all' => 'All',
+  ),
+);

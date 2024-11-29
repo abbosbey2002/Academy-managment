@@ -1,0 +1,115 @@
+<?php
+
+return array (
+  'general' => 
+  array (
+    'welcome' => 'Xush kelibsiz',
+    'goodbye' => 'Xayr',
+    'home' => 'Bosh sahifa',
+    'settings' => 'Sozlamalar',
+    'back' => 'Ortga qaytish',
+    'save' => 'Saqlash',
+    'register' => "Ro'yatdan o'tish",
+    'days_of_week' => "Hafta kunlari",
+    'monday' => "Dushanba",
+    'tuesday' => "Seshanba",
+    'wednesday' => "Chorshanba",
+    'thursday' => "Payshanba",
+    'friday' => "Juma",
+    'saturday' => "Shanba",
+    'sunday' => "Yakshanba",
+    'month' => "Oy",
+    'hours' => "Soat",
+    'sum' => "so'm",
+    'delete' => "O'chirish",
+    'phone' => "Telefon raqam",
+    'not_found' => "Ma'lumot topilmadi",
+    'status' => "Holati",
+    'active' => "Faol",
+    'suspended' => "Vaqtinchalik To'xtatilgan",
+    'cenceled' => "Bekor qilindi",
+    'edit' => "Tahrirlash",
+    'choose' => "Tanlang",
+    'name' => "Ism ",
+    'last_name' => " Familiya",
+    'time' => "Vaqt",
+    'address' => "Manzil",
+    'all' => 'Barchasi',
+    'type' => 'Turi',
+    'admin' => 'admin',
+    'information' => "Ma'lumot",
+    'role' => "Lavozimi",
+    'finished' => "Tugagan",
+    'password' => "Parol",
+    'translation' => "Tarjimalar",
+
+  ),
+  'branch' => 
+  array (
+    'branch' => 'Filial',
+    'title' => 'Filiallar',
+    'create' => 'Filial yaratish',
+    'edit' => 'Filialni tahrirlash',
+    'delete' => 'Filialni o\'chirish',
+    'list' => "Filiallar ro'yxati",
+  ),
+  'filial' => 
+  array (
+    'name' => 'Filial nomi',
+    'address' => 'Filial manzili',
+  ),
+  'employee' => 
+  array (
+    'employees' => 'Xodimlar',
+    'list' => "Xodimlar ro'yxati",
+    'add' => "Xodim qo'shish",
+    'edit' => "Xodimni tahrirlash",
+    'enter_emp_inf' => "Xodimni ma'lumotlarini kiriting",
+  ),
+  'students' => 
+  array (
+    'student' => "O'quvchi",
+    'teacher' => "O'qituvchi",
+    'students' => "O'quvchilar",
+    'list' => "O'quvchilar ro'yxati",
+    'add_student' => "O'quvchi qo'shish",
+    'create' => "O'quvchi yaratish",
+  ),
+  'courses' => 
+  array (
+    'courses' => 'Kurslar',
+    'course' => 'Kurs',
+    'name' => 'Kurs nomi',
+    'list' => "Kurslar ro'yxati",
+    'create' => 'Kurs yaratish',
+    'add_course' => "Yangi kurs qo'shish",
+    'edit' => 'Kursni tahrirlash',
+    'information' => "Kurs ma'lumotlari",
+
+
+
+  ),
+  'group' =>
+  array (
+    'groups' => 'Guruhlar',
+    'group' => 'Guruh',
+    'add_group' => "Guruh qo'shish",
+    'new_groups' => "Yangi guruh",
+    'edit_group' => "Guruhni tahrirlash",
+    'update_group' => "Guruhni yangilash",
+    'home' => "Bosh sahifa",
+    'students' => "Guruh o'quvchilari",
+    'back' => 'Ortga qaytish',
+    'list' => "Guruh ro'yxati",
+    'create' => "Guruh yaratish",
+    'information' => "Guruh ma'lumotlari",
+    'no_information' => "Ma'lumot yo'q",
+    'waiting' => "Kutilyapti",
+    'paid' => "To'langan",
+    'unpaid' => "To'lanmagan",
+    'invoice' => "Faktura",
+    'transaction' => "Transaction",
+    'lifetime' => "Muddat",
+    'all' => "Barchasi",
+  ),
+);
